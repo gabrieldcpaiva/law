@@ -1,0 +1,9 @@
+# Versões pessoais com dados reais (nome da titular, final do cartão, cidade,
+# nome do vendedor, valores). Este repositório é PÚBLICO — não versionar.
+# Use GUIA_SOBREVIVENCIA.md para compartilhar; mantenha estes arquivos só no disco.
+PLANO_DE_ACAO.md
+MENSAGENS_PRONTAS.md
+
+# Rascunhos e anexos pessoais
+/privado/
+*.local.md
